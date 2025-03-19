@@ -11,9 +11,3 @@ We also firmly believe in the ownership of your data. Nowadays, too much of your
 With laserfocus, you choose what data you are storing and can actually use it to benefit you and your projects.
 
 Welcome to the new age of human computer interaction, the symbiosis.
-
-## Connect With Us 🌐
-- [Email us]()
-- [LinkedIn](https://www.linkedin.com/company/laserfocused/)
-- [Instagram](https://www.instagram.com/laserfocuscr/)
-- [Website](https://laserfocus.space)
